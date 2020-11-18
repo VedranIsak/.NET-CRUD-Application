@@ -1,0 +1,16 @@
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\bin\Debug\CRUD_Application.exe.config
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\bin\Debug\CRUD_Application.exe
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\bin\Debug\CRUD_Application.pdb
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.csprojAssemblyReference.cache
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\MainWindow.g.cs
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\App.g.cs
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application_MarkupCompile.cache
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application_MarkupCompile.lref
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\MainWindow.baml
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.g.resources
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.Properties.Resources.resources
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.csproj.GenerateResource.cache
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.csproj.CoreCompileInputs.cache
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.exe
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\CRUD_Application.pdb
+C:\Users\vedra\source\repos\CRUD_Application\CRUD_Application\obj\Debug\GeneratedInternalTypeHelper.g.cs
